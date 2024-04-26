@@ -1,5 +1,3 @@
-require("configs/editor-config")
-require("configs/lazy-install")
-require("configs/keymaps")
-require("configs/theme")
-require("configs/sintax-format")
+require("nvim-options")
+require("lazy-config")
+
